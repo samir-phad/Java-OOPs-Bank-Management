@@ -1,4 +1,5 @@
 BANK MANAGEMENT SYSTEM PROJECT: - 
+Base on only OOP's Concept
 
 package com.braindata.bankmanagement.model; 
 public class Account {  
