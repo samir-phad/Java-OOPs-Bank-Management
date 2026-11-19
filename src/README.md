@@ -1,5 +1,5 @@
 BANK MANAGEMENT SYSTEM PROJECT: - 
-Base on only OOP's Concept
+Base on only OOP's Concept.
 
 package com.braindata.bankmanagement.model; 
 public class Account {  
@@ -25,8 +25,10 @@ public interface Rbi {
 
 
 package com.braindata.bankmanagement.serviceImpl; 
-public class Sbi  implements Rbi {  
+public class Sbi  implements Rbi { 
+
     //implements all methods here  
+
     public void createAccount()  {   
         System.out.println("createAccount");  
     }  
