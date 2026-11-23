@@ -1,5 +1,5 @@
 BANK MANAGEMENT SYSTEM PROJECT: - 
-Base on only OOP's Concept 
+Base on only OOP's Concept.
 - used Array to store Account details.
 - Apply all operation to perticular Account using Account Number.
   (as like ATM, enter pin and access Account)
